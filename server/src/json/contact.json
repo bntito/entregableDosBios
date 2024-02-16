@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "email": "bruno.nicolas@correo.com",
+    "name": "Bruno",
+    "phone": "099951021",
+    "comment": "Hola, este es un comentario"
+  },
+  {
+    "id": 2,
+    "email": "victor@bios.com",
+    "name": "Víctor",
+    "phone": "092123123",
+    "comment": "Este es otro comentario"
+  },
+  {
+    "id": 3,
+    "email": "elcorreo@correo.com",
+    "name": "Carlos",
+    "phone": "091234432",
+    "comment": "Hola, dejo este comentario"
+  }
+]

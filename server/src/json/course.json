@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "code": "1000",
+    "name": "FullStack",
+    "description": "Descripción de FullStack",
+    "cost": 100000,
+    "active": true,
+    "start": "2024-03-20",
+    "end": "2024-12-01",
+    "relationCP": [
+      {
+        "code": "1000",
+        "dniProfessor": [
+          "24556779",
+          "42552552",
+          "4111111"
+        ]
+      }
+    ],
+    "relationCS": [
+      {
+        "code": "1000",
+        "dniStudent": [
+          "47335258",
+          "83556229",
+          "12123138"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "1001",
+    "name": "Phyton",
+    "description": "Descripción de Phyton",
+    "cost": 80000,
+    "active": false,
+    "start": "2024-03-01",
+    "end": "2025-12-22"
+  },
+  {
+    "id": 3,
+    "code": "1003",
+    "name": "HTML",
+    "description": "Descripción de curso html",
+    "cost": 60000,
+    "active": true,
+    "start": "2024-03-11",
+    "end": "2025-01-01",
+    "relationCS": [
+      {
+        "code": "1003",
+        "dniStudent": [
+          "47115257",
+          "47331234"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "1005",
+    "name": "Kotlin",
+    "description": "Descripción de curso kotlin",
+    "cost": 50000,
+    "active": false,
+    "start": "2024-03-01",
+    "end": "2024-12-12",
+    "relationCP": [
+      {
+        "code": "1005",
+        "dniProfessor": [
+          "4101012"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "course": "FullStack",
+    "codeCourse": "1000",
+    "cost": 400,
+    "dni": "24556779",
+    "name": "Víctor",
+    "lastname": "Brown",
+    "country": "Colombia",
+    "address": "General",
+    "phone": "099995111",
+    "email": "victor@bios.com",
+    "active": true
+  },
+  {
+    "id": 2,
+    "course": "FullStack",
+    "cost": 800,
+    "dni": "42552552",
+    "name": "Nicolás",
+    "lastname": "Hackeling",
+    "country": "Perú",
+    "address": "Granja",
+    "phone": "099951200",
+    "email": "nico@gmail.com",
+    "active": false
+  },
+  {
+    "id": 3,
+    "course": "FullStack",
+    "cost": 600,
+    "dni": "41112223",
+    "name": "Marcela",
+    "lastname": "Hernández",
+    "country": "Uruguay",
+    "address": "Arbolillo",
+    "phone": "099951244",
+    "email": "marceaco@correo.com",
+    "active": true
+  },
+  {
+    "id": 4,
+    "course": "Kotlin",
+    "codeCourse": "1005",
+    "cost": 100,
+    "dni": "4101012",
+    "name": "Julio",
+    "lastname": "Martínez",
+    "country": "Chile",
+    "address": "Chileana",
+    "phone": "094156452",
+    "email": "julichile@gmai.com",
+    "active": false
+  }
+]

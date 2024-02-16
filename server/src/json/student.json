@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "course": "FullStack",
+    "codeCourse": "1000",
+    "dni": "47335258",
+    "name": "Bruno",
+    "lastname": "Tito",
+    "address": "Arbolito 3137",
+    "phone": "099951021",
+    "email": "bruno.nicolas.tito@gmail.com",
+    "tnc": true
+  },
+  {
+    "id": 2,
+    "course": "FullStack",
+    "codeCourse": "1000",
+    "dni": "83556229",
+    "name": "Carlos",
+    "lastname": "Suearez",
+    "address": "Ferrovia",
+    "phone": "099452123",
+    "email": "correo@correos.com",
+    "tnc": false
+  },
+  {
+    "id": 3,
+    "course": "HTML",
+    "codeCourse": "1003",
+    "dni": "47115257",
+    "name": "Matías",
+    "lastname": "Álvez",
+    "address": "Av 8oct",
+    "phone": "091125456",
+    "email": "jason@correo.com",
+    "tnc": true
+  },
+  {
+    "id": 4,
+    "course": "FullStack",
+    "codeCourse": "1000",
+    "dni": "12123138",
+    "name": "Julio",
+    "lastname": "Gutierrez",
+    "address": "Ferrovia",
+    "phone": "095456123",
+    "email": "emai@gmail.com",
+    "tnc": false
+  },
+  {
+    "id": 5,
+    "course": "HTML",
+    "codeCourse": "1003",
+    "dni": "47331234",
+    "name": "Julio",
+    "lastname": "Tito",
+    "address": "Arbolito 3244",
+    "phone": "095125478",
+    "email": "julio@gmail.com",
+    "tnc": true
+  }
+]
